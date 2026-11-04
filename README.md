@@ -1,4 +1,5 @@
-# Telegram MTProto proxy (mtg) for Sevalla
+# ah
+
 
 ## Environment variable
 SECRET=SECRET
